@@ -1,5 +1,4 @@
 # hello-world
-Guiding repo
 
 Hi Humans!
 
